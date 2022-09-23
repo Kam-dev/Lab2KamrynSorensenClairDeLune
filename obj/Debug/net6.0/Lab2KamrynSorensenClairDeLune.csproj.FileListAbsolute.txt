@@ -1,0 +1,15 @@
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\bin\Debug\net6.0\Lab2KamrynSorensenClairDeLune.exe
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\bin\Debug\net6.0\Lab2KamrynSorensenClairDeLune.deps.json
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\bin\Debug\net6.0\Lab2KamrynSorensenClairDeLune.runtimeconfig.json
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\bin\Debug\net6.0\Lab2KamrynSorensenClairDeLune.dll
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\bin\Debug\net6.0\Lab2KamrynSorensenClairDeLune.pdb
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\obj\Debug\net6.0\Lab2KamrynSorensenClairDeLune.csproj.AssemblyReference.cache
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\obj\Debug\net6.0\Lab2KamrynSorensenClairDeLune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\obj\Debug\net6.0\Lab2KamrynSorensenClairDeLune.AssemblyInfoInputs.cache
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\obj\Debug\net6.0\Lab2KamrynSorensenClairDeLune.AssemblyInfo.cs
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\obj\Debug\net6.0\Lab2KamrynSorensenClairDeLune.csproj.CoreCompileInputs.cache
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\obj\Debug\net6.0\Lab2KamrynSorensenClairDeLune.dll
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\obj\Debug\net6.0\refint\Lab2KamrynSorensenClairDeLune.dll
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\obj\Debug\net6.0\Lab2KamrynSorensenClairDeLune.pdb
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\obj\Debug\net6.0\Lab2KamrynSorensenClairDeLune.genruntimeconfig.cache
+C:\Users\amyso\source\repos\Lab2KamrynSorensenClairDeLune\obj\Debug\net6.0\ref\Lab2KamrynSorensenClairDeLune.dll
